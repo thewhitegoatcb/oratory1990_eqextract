@@ -1,0 +1,13 @@
+Preamp: -5.1 dB
+Filter: ON LSC Fc 60 Hz Gain 2 dB Q 0.71
+Filter: ON PK Fc 210 Hz Gain -1.5 dB Q 0.71
+Filter: ON PK Fc 890 Hz Gain 0.5 dB Q 1.4
+Filter: ON PK Fc 1250 Hz Gain -0.9 dB Q 2
+Filter: ON PK Fc 2450 Hz Gain -7.6 dB Q 0.8
+Filter: ON PK Fc 3000 Hz Gain 12 dB Q 0.9
+Filter: ON PK Fc 4250 Hz Gain -3.5 dB Q 2.2
+Filter: ON PK Fc 5500 Hz Gain 3 dB Q 1.4
+Filter: ON PK Fc 8000 Hz Gain -4 dB Q 2
+Filter: ON HSC Fc 10000 Hz Gain 5 dB Q 0.71
+# {'Hash': '1172a64b6e9e2a7fa439b9ec3813a58f', 'Script Version': 0.1}
+# {'Deviation from Target': '1,46 dB 0,31 dB', 'Preference Rating': '77/100 93/100'}

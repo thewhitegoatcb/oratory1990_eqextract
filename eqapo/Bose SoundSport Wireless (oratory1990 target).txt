@@ -1,0 +1,5 @@
+Preamp: -0.1 dB
+Filter: ON PK Fc 112 Hz Gain 2.5 dB Q 0.9
+Filter: ON LSC Fc 380 Hz Gain -4.5 dB Q 0.71
+# {'Hash': '7182c3f6f5df6cee5328e160d8b3d7b4', 'Script Version': 0.1}
+# {'Deviation from Target': '1,69 dB 0,47 dB'}

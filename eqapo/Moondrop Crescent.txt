@@ -1,0 +1,10 @@
+Preamp: -6.4 dB
+Filter: ON PK Fc 120 Hz Gain -2.5 dB Q 0.6
+Filter: ON PK Fc 750 Hz Gain 0.7 dB Q 1
+Filter: ON PK Fc 1250 Hz Gain -2.1 dB Q 2.2
+Filter: ON PK Fc 2550 Hz Gain 4 dB Q 1.5
+Filter: ON PK Fc 3400 Hz Gain -1.8 dB Q 2
+Filter: ON PK Fc 6300 Hz Gain 7 dB Q 1.5
+Filter: ON PK Fc 9100 Hz Gain -4 dB Q 2.3
+# {'Hash': 'c7d9e19e92423b5bfef79b9e15a59a55', 'Script Version': 0.1}
+# {'Deviation from Target': '1,90 dB\n0,20 dB', 'Preference Rating': '69/100\n97/100'}

@@ -1,0 +1,8 @@
+Filter Type,Frequency(Hz),Gain(dB),Q-Factor,BW
+PREAMP,,-4.2,,
+LOW_SHELF,90.0,-6.0,0.71,
+HIGH_SHELF,1850.0,4.2,0.71,
+PEAK,2920.0,-4.2,2.3,0.62
+PEAK,5250.0,-3.4,5.0,0.29
+PEAK,250.0,-1.0,0.7,1.92
+PEAK,820.0,0.9,2.0,0.71
